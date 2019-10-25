@@ -1,0 +1,19 @@
+{ "dadosdevsp": {
+    "response": true,
+    "message": "API Encontrada",
+    "data": {
+        "status": {
+            "condigo": "1",
+            "mensagem": "Dados recuperados com sucesso"
+        },
+        "cliente": [
+            {
+                "Regis": "1059127",
+                "Nome": "Antonio Carlos Pedrao Borges",
+                "Contrato": "1101059127",
+                "Email": null
+            }
+        ]
+    }
+}
+}
