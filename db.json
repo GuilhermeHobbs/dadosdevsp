@@ -1,19 +1,20 @@
-{ "dadosdevsp": {
-    "response": true,
-    "message": "API Encontrada",
-    "data": {
-        "status": {
-            "condigo": "1",
-            "mensagem": "Dados recuperados com sucesso"
-        },
-        "cliente": [
-            {
-                "Regis": "3328813",
-                "Nome": "Bruno Cesar Moreira Pessanha",
-                "Contrato": "1103328813",
-                "Email": null
-            }
-        ]
+{
+    "dadosdevsp": {
+        "response": true,
+        "message": "API Encontrada",
+        "data": {
+            "status": {
+                "condigo": "1",
+                "mensagem": "Dados recuperados com sucesso"
+            },
+            "cliente": [
+                {
+                    "Regis": "5399379",
+                    "Nome": "Mateus Felipe",
+                    "Contrato": "1105399379",
+                    "Email": null
+                }
+            ]
+        }
     }
-}
 }
